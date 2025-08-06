@@ -6,7 +6,7 @@ This is a simple and clean static webpage project showcasing BMW, built entirely
 📁 Folder Structure
 A-Simple-BMW-webpage-using-Html/
 ├── index.html
-├── README.md
+
 └── images/
 ├── BMW Wallpaper Desktop.jpg
 ├── bmw.avif
